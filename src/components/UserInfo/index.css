@@ -1,0 +1,19 @@
+/* Write your CSS code here */
+.image-cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.profile-img {
+  height: 100px;
+  width: 100px;
+}
+.heading {
+  font-size: 30px;
+  font-weight: bold;
+  color: #12022f;
+}
+.para {
+  font-size: 16px;
+  color: #616e7c;
+}
